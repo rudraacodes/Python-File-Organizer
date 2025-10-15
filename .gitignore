@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+move_log.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
