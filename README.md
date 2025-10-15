@@ -18,7 +18,7 @@ Supports **custom categories** and can **revert moves** if needed.
 ## How to Use
 
 1. Clone the repo:-
-git clone https://github.com/YOUR_USERNAME/file-organizer.git
+git clone https://github.com/rudraacodes/file-organizer.git
 cd file-organizer
 
 2. Edit `categories.py` if you want custom categories (optional).
